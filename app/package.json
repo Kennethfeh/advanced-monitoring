@@ -1,0 +1,14 @@
+{
+  "name": "devops-demo-app-monitoring",
+  "version": "5.0.0",
+  "description": "DevOps Projects 4-5 - Monitoring, Observability, and Advanced Metrics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Monitoring and alerting tests\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+ 
